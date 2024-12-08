@@ -1,1 +1,1 @@
-# Data-communication Sockrt Project Server and Client
+# Data-communication Socket Project Server and Client
