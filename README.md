@@ -1,1 +1,1 @@
-# Data-communication Sockrt project server and Client
+# Data-communication Sockrt Project Server and Client
